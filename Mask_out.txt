@@ -1,0 +1,14 @@
+255.255.255.252 - Valid subnet mask. Binary representation: 11111111111111111111111111111100
+128.0.0.0 - Valid subnet mask. Binary representation: 10000000000000000000000000000000
+255.255.128.0 - Valid subnet mask. Binary representation: 11111111111111111000000000000000
+255.254.255.255 - Invalid subnet mask
+255.255.255.255 - Invalid subnet mask
+255.255.255.252 - Valid subnet mask. Binary representation: 11111111111111111111111111111100
+255.255.253.128 - Invalid subnet mask
+255.253.255.252 - Invalid subnet mask
+253.255.255.0 - Invalid subnet mask
+0.255.255.252 - Invalid subnet mask
+255.128.0.0 - Valid subnet mask. Binary representation: 11111111100000000000000000000000
+255.255.240.0 - Valid subnet mask. Binary representation: 11111111111111111111000000000000
+367.342.786.908 - Invalid subnet mask
+12.32.456.23 - Invalid subnet mask
